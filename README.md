@@ -15,7 +15,7 @@
   <img align="center" alt="Ramon-Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
  </div>
   
-  <H2>Frameworks</h2>
+  <H2>Techs</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ramon-Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img align="center" alt="Ramon-flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
