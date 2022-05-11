@@ -2,6 +2,7 @@
 - 🔭 Perfil de uso em aulas
 - 🌱 Professor de Computação
 - 😄 Pronomes: ele/dele
+- 
 <div align="center">
   <a href="https://github.com/ramonsl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonsl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -20,7 +21,12 @@
   <img align="center" alt="Ramon-Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img align="center" alt="Ramon-flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
  </div>
-
+  <div style="display: inline_block"><br>
+<H2>💻 My workspace<H2>
+  <img src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  </div>
   <H2>Contato</h2>
  
 <div style="display: inline_block"> 
