@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonsl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonsl&layout=compact&langs_count=7&theme=dark"/>
     <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/ramonsl"></a> visitas...
+  <a href="#"><img src="https://badges.pufler.dev/visits/ramonsl/ramonsl"></a> visitas...
 </p>
 </div>
 <H2>Linguagens</h2>
